@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Sefrancois/test/compare/v1.1.0...v1.2.0) (2023-01-30)
+
+
+### version
+
+* increment version for npm ([d50b6ff](https://github.com/Sefrancois/test/commit/d50b6ffc602f8e0ac54c53e4ae44e4ebb44a6770))
+
 ## [1.1.0](https://github.com/Sefrancois/test/compare/v1.0.0...v1.1.0) (2023-01-30)
 
 
