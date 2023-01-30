@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Enhance testing libraries by adding a way to easily stub class",
   "main": "./dist/index.js",
   "scripts": {
