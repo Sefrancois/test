@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Enhance testing libraries by adding a way to easily stub class",
   "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm test && npm run build",
