@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/Sefrancois/test/compare/v1.2.0...v1.2.1) (2023-02-03)
+
+
+### Bug Fixes
+
+* **types:** re-export types for used libraries ([ac951fd](https://github.com/Sefrancois/test/commit/ac951fd28b4ea10b509a4b03bacf094907fda2f8))
+
 ## [1.2.0](https://github.com/Sefrancois/test/compare/v1.1.0...v1.2.0) (2023-01-30)
 
 
