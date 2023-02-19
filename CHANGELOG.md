@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/Sefrancois/test/compare/v1.2.1...v1.2.2) (2023-02-19)
+
+
+### Bug Fixes
+
+* **dependencies:** updated dependencies ([6b99622](https://github.com/Sefrancois/test/commit/6b99622c994c884cb1be5e1e70c416f8c4ea3acb))
+
 ## [1.2.1](https://github.com/Sefrancois/test/compare/v1.2.0...v1.2.1) (2023-02-03)
 
 
