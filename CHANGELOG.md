@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.6](https://github.com/Sefrancois/test/compare/v1.2.5...v1.2.6) (2023-06-14)
+
+
+### Miscellaneous Chores
+
+* **dependencies:** updated dependencies ([205da24](https://github.com/Sefrancois/test/commit/205da240269eadc988b9ebb02a2a978def109e8a))
+
 ## [1.2.5](https://github.com/Sefrancois/test/compare/v1.2.4...v1.2.5) (2023-06-06)
 
 
