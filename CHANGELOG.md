@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.9](https://github.com/Sefrancois/test/compare/v1.2.8...v1.2.9) (2023-08-16)
+
+
+### deps
+
+* update dependencies ([f73bfb2](https://github.com/Sefrancois/test/commit/f73bfb2e61ac5f1710425be12c41aed2dd482713))
+
 ## [1.2.8](https://github.com/Sefrancois/test/compare/v1.2.7...v1.2.8) (2023-07-17)
 
 
